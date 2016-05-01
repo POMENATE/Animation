@@ -1,0 +1,97 @@
+# depslib dependency file v1.0
+1459921348 source:/media/bakx/B096161B9615E2A0/Study/Projects/Fractals/Fractals/main.cpp
+	<iostream>
+
+1459920897 source:/media/bakx/B096161B9615E2A0/Study/Projects/Fractals/Fractals/src/julia.cpp
+	"julia.h"
+
+1459920897 /media/bakx/B096161B9615E2A0/Study/Projects/Fractals/Fractals/include/julia.h
+
+1459921023 source:/media/bakx/B096161B9615E2A0/Study/Projects/Fractals/Fractals/src/mandelbrot.cpp
+	"mandelbrot.h"
+
+1459921023 /media/bakx/B096161B9615E2A0/Study/Projects/Fractals/Fractals/include/mandelbrot.h
+
+1459921251 source:/media/bakx/B096161B9615E2A0/Study/Projects/Fractals/Fractals/src/sierpinski.cpp
+	"sierpinski.h"
+
+1459921251 /media/bakx/B096161B9615E2A0/Study/Projects/Fractals/Fractals/include/sierpinski.h
+
+1459921307 source:/media/bakx/B096161B9615E2A0/Study/Projects/Fractals/Fractals/src/vonkoch.cpp
+	"vonkoch.h"
+
+1459921307 /media/bakx/B096161B9615E2A0/Study/Projects/Fractals/Fractals/include/vonkoch.h
+
+1461497847 source:/home/bakx/Desktop/Fractals/Fractals/src/julia.cpp
+	"julia.h"
+
+1460837287 /home/bakx/Desktop/Fractals/Fractals/include/julia.h
+	<GL/glew.h>
+	<string>
+	<cmath>
+	<iomanip>
+	"color.h"
+	"display.h"
+
+1461976211 source:/home/bakx/Desktop/Fractals/Fractals/src/mandelbrot.cpp
+	"mandelbrot.h"
+
+1460837287 /home/bakx/Desktop/Fractals/Fractals/include/mandelbrot.h
+	"display.h"
+	<GL/glew.h>
+	"color.h"
+
+1462018371 source:/home/bakx/Desktop/Fractals/Fractals/src/sierpinski.cpp
+	"sierpinski.h"
+	<iostream>
+
+1462018386 /home/bakx/Desktop/Fractals/Fractals/include/sierpinski.h
+	<GL/glew.h>
+	"display.h"
+
+1460837287 source:/home/bakx/Desktop/Fractals/Fractals/src/vonkoch.cpp
+	"vonkoch.h"
+	<GL/glew.h>
+
+1460837287 /home/bakx/Desktop/Fractals/Fractals/include/vonkoch.h
+	<list>
+	<string>
+	<vector>
+
+1460544565 source:/home/bakx/Desktop/Fractals/Fractals/src/dragonCurve.cpp
+	"dragonCurve.h"
+	"openGL_Include.h"
+
+1460837287 /home/bakx/Desktop/Fractals/Fractals/include/dragonCurve.h
+
+1462063746 source:/home/bakx/Desktop/Fractals/Fractals/main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"julia.h"
+	"mandelbrot.h"
+	"sierpinski.h"
+	<thread>
+	<gtkmm.h>
+
+1460624206 /home/bakx/Desktop/Fractals/Fractals/include/openGL_Include.h
+	<GL/glew.h>
+	<SDL2/SDL.h>
+
+1460646397 source:/home/bakx/Desktop/Fractals/Fractals/src/display.cpp
+	"display.h"
+
+1460837287 /home/bakx/Desktop/Fractals/Fractals/include/display.h
+	<SDL2/SDL.h>
+	<GL/glew.h>
+	<iostream>
+	<string>
+
+1460837287 /home/bakx/Desktop/Fractals/Fractals/include/color.h
+
+1461918739 source:/home/bakx/Desktop/Fractals/Fractals/src/main_display.cpp
+	"main_display.h"
+
+1461918739 /home/bakx/Desktop/Fractals/Fractals/include/main_display.h
+	<gtkmm.h>
+
